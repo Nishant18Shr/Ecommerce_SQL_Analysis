@@ -72,6 +72,11 @@ The dataset consists of the following tables:
 
 ## 📂 Files Included
 - `EcommerceCaseStudy.sql` → Contains all SQL queries and analysis  
+- `files/` → Contains raw dataset used for analysis:
+  - `customers.csv` → Customer information and locations  
+  - `orders.csv` → Order transactions and dates  
+  - `orderdetails.csv` → Product-level order details  
+  - `products.csv` → Product information and categories  
 
 ## 🚀 Conclusion
 This project demonstrates strong SQL skills including data querying, aggregation, joins, CTEs, and business analysis. It highlights how raw transactional data can be transformed into actionable insights for business decision-making.
